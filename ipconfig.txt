@@ -1,0 +1,65 @@
+Microsoft Windows [Versión 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+C:\Users\ies>ipconfig
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Conexión de área local 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv4. . . . . . . . . . . . . . : 10.1.6.10
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 10.1.6.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6960:e696:2469:1d25%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4084:19f5:24:783c%19
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.95.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::7970:3d6d:d421:868d%20
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.226.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de túnel isatap.{C15F321D-72D2-4342-843C-20F41FF36510}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel isatap.{74FE3636-BDCA-4066-9F90-70294C622B18}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel Conexión de área local* 12:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel isatap.{2A9B986C-A39B-4E6E-B8FD-1E0E3E71A45C}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel isatap.{9FB878D7-1CB3-4CBE-9AF4-26549CDCFF3B}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+C:\Users\ies>
